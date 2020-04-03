@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "2aaggvunhzhpxl2fvgzj4kubuy"
+      "buildId": "eq3wm6i665c7bncbdsmpjzelca"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.schema.project-1.0.0.jar",
           "url": "laplacian.schema.project-1.0.0.jar",
-          "size": 36918,
-          "sha512": "38b8c4c30fe075235f72190246c7a869b9ded8ed7cf1155719ef2dc1070339a4c7413947af60314bbbbcbaf7368aeefcd1a63aabfc0b021e2d83cc544e4cd848",
-          "sha256": "da558c133b5376851a69e23d0f4cf3c9f87ecaa2fa382d959199c141cd05a1b6",
-          "sha1": "be9432c75701b0d90376917bc304d98d0a5e55ef",
-          "md5": "8a5bb0ad959b46501f990d63c281e797"
+          "size": 36379,
+          "sha512": "68cfa9d42cc0a91c2e1f285b2198d54a3cfc264e985ce24e6e813e400df721d39fb133ff5779e44105bf1a6c62ce4233baaeec50a2afef50e80882c2d60d4619",
+          "sha256": "58a5e79f42d9ba3a23b651287b592420991c0cd381f57c5e9b3aa1fd4e1693f5",
+          "sha1": "1863b64bdda838dfb9e08402b905e49ae607b2ec",
+          "md5": "8efbcc5c298842342bd1d6ca85c79753"
         }
       ]
     },
@@ -76,11 +76,11 @@
         {
           "name": "laplacian.schema.project-1.0.0.jar",
           "url": "laplacian.schema.project-1.0.0.jar",
-          "size": 36918,
-          "sha512": "38b8c4c30fe075235f72190246c7a869b9ded8ed7cf1155719ef2dc1070339a4c7413947af60314bbbbcbaf7368aeefcd1a63aabfc0b021e2d83cc544e4cd848",
-          "sha256": "da558c133b5376851a69e23d0f4cf3c9f87ecaa2fa382d959199c141cd05a1b6",
-          "sha1": "be9432c75701b0d90376917bc304d98d0a5e55ef",
-          "md5": "8a5bb0ad959b46501f990d63c281e797"
+          "size": 36379,
+          "sha512": "68cfa9d42cc0a91c2e1f285b2198d54a3cfc264e985ce24e6e813e400df721d39fb133ff5779e44105bf1a6c62ce4233baaeec50a2afef50e80882c2d60d4619",
+          "sha256": "58a5e79f42d9ba3a23b651287b592420991c0cd381f57c5e9b3aa1fd4e1693f5",
+          "sha1": "1863b64bdda838dfb9e08402b905e49ae607b2ec",
+          "md5": "8efbcc5c298842342bd1d6ca85c79753"
         }
       ]
     }

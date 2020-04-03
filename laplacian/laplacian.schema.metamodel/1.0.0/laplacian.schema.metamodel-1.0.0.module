@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "y6jkrjkxnvdkhorar2a37ry5cm"
+      "buildId": "xl5yzs3xljc2hohvmqmatoeecy"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.schema.metamodel-1.0.0.jar",
           "url": "laplacian.schema.metamodel-1.0.0.jar",
-          "size": 107771,
-          "sha512": "422bff105490e19964b3390f858826adc1315f032b9520505ea1d0ba0a008d52b7f1bc2418fa3372f0ef973e4682469cd0e8195f9d597d95045fb93e7e5f6f98",
-          "sha256": "e2b6cdced48841df9a010c72acf3dd7dd4b1cd5a2fef0063a94ea36da0a54911",
-          "sha1": "6dfffeaa8541a2bb612b7e98f26e3e651ee57bad",
-          "md5": "0ca62e618dd440582637d037e5cdb210"
+          "size": 109483,
+          "sha512": "d08f6326618a3906a6234a6d4adedda91d1ea4e4d6c84a201497320c65324f4c99d9101d1e6a775b9fec50192f1de047fea50043e301d72b972093d98a9988f2",
+          "sha256": "c00c2ad234724f969209abe62914a44ecfa3861de1bac5d4d4a9e4a2afd38730",
+          "sha1": "1e84973bd3b52885ba59725ffcf69ad29ff0ad39",
+          "md5": "589015b6dbaa9706a80b0548f1820aad"
         }
       ]
     },
@@ -76,11 +76,11 @@
         {
           "name": "laplacian.schema.metamodel-1.0.0.jar",
           "url": "laplacian.schema.metamodel-1.0.0.jar",
-          "size": 107771,
-          "sha512": "422bff105490e19964b3390f858826adc1315f032b9520505ea1d0ba0a008d52b7f1bc2418fa3372f0ef973e4682469cd0e8195f9d597d95045fb93e7e5f6f98",
-          "sha256": "e2b6cdced48841df9a010c72acf3dd7dd4b1cd5a2fef0063a94ea36da0a54911",
-          "sha1": "6dfffeaa8541a2bb612b7e98f26e3e651ee57bad",
-          "md5": "0ca62e618dd440582637d037e5cdb210"
+          "size": 109483,
+          "sha512": "d08f6326618a3906a6234a6d4adedda91d1ea4e4d6c84a201497320c65324f4c99d9101d1e6a775b9fec50192f1de047fea50043e301d72b972093d98a9988f2",
+          "sha256": "c00c2ad234724f969209abe62914a44ecfa3861de1bac5d4d4a9e4a2afd38730",
+          "sha1": "1e84973bd3b52885ba59725ffcf69ad29ff0ad39",
+          "md5": "589015b6dbaa9706a80b0548f1820aad"
         }
       ]
     }
