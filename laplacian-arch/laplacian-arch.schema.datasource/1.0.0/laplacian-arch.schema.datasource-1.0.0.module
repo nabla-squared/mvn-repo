@@ -1,0 +1,102 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "laplacian-arch",
+    "module": "laplacian-arch.schema.datasource",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.2.2",
+      "buildId": "5hzfc2smfzckpmj3objsp77jzy"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "laplacian-arch.schema.datasource-1.0.0.jar",
+          "url": "laplacian-arch.schema.datasource-1.0.0.jar",
+          "size": 47272,
+          "sha512": "3574e9a13963edba14e7b44309ad9c3b2a018b2e6fed1a6d7ca89856086200d1801b2b559c8f775c74fc699d9f3939890cbf3da80a23b29f501a7bf47cfb599f",
+          "sha256": "6f117e91a658f6198eb1f85f499d0f8bad435e83f3a4b01857d448d8719d858d",
+          "sha1": "8cfb0d572263f7c3352ac1c659d914e678740973",
+          "md5": "ebaaa355d386fe4eee7ade2aaae71541"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.3.70"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.3.70"
+          }
+        },
+        {
+          "group": "laplacian",
+          "module": "laplacian.generator",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "laplacian",
+          "module": "laplacian.schema.metamodel",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "laplacian",
+          "module": "laplacian.schema.project",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "laplacian-arch.schema.datasource-1.0.0.jar",
+          "url": "laplacian-arch.schema.datasource-1.0.0.jar",
+          "size": 47272,
+          "sha512": "3574e9a13963edba14e7b44309ad9c3b2a018b2e6fed1a6d7ca89856086200d1801b2b559c8f775c74fc699d9f3939890cbf3da80a23b29f501a7bf47cfb599f",
+          "sha256": "6f117e91a658f6198eb1f85f499d0f8bad435e83f3a4b01857d448d8719d858d",
+          "sha1": "8cfb0d572263f7c3352ac1c659d914e678740973",
+          "md5": "ebaaa355d386fe4eee7ade2aaae71541"
+        }
+      ]
+    }
+  ]
+}
