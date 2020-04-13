@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "xl5yzs3xljc2hohvmqmatoeecy"
+      "buildId": "ucylbgsctzhjbhyec7btee7euq"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.schema.metamodel-1.0.0.jar",
           "url": "laplacian.schema.metamodel-1.0.0.jar",
-          "size": 109483,
-          "sha512": "d08f6326618a3906a6234a6d4adedda91d1ea4e4d6c84a201497320c65324f4c99d9101d1e6a775b9fec50192f1de047fea50043e301d72b972093d98a9988f2",
-          "sha256": "c00c2ad234724f969209abe62914a44ecfa3861de1bac5d4d4a9e4a2afd38730",
-          "sha1": "1e84973bd3b52885ba59725ffcf69ad29ff0ad39",
-          "md5": "589015b6dbaa9706a80b0548f1820aad"
+          "size": 109499,
+          "sha512": "288147e43ecc66d7c99dca9f63e53f09ea4fb6176f270dd991ce0e50522f6526e43e0377c5998808cc1bc722a53546e9c0359b26af0397023c760d125ec08291",
+          "sha256": "d0b72fc4c96b948e07316212ec0ebc6279b1e17aa2e20273a59cfdc0ee72cc79",
+          "sha1": "1e91a08dfb68fa2dc4515999cf64e35d1d1a78fc",
+          "md5": "7f847152cba86c4db8fd89ee371c881b"
         }
       ]
     },
@@ -51,13 +51,6 @@
       },
       "dependencies": [
         {
-          "group": "laplacian",
-          "module": "laplacian.generator",
-          "version": {
-            "requires": "1.0.0"
-          }
-        },
-        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
@@ -70,17 +63,38 @@
           "version": {
             "requires": "1.3.70"
           }
+        },
+        {
+          "group": "laplacian",
+          "module": "laplacian.generator",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "laplacian",
+          "module": "laplacian.schema.metamodel",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "laplacian",
+          "module": "laplacian.schema.project",
+          "version": {
+            "requires": "1.0.0"
+          }
         }
       ],
       "files": [
         {
           "name": "laplacian.schema.metamodel-1.0.0.jar",
           "url": "laplacian.schema.metamodel-1.0.0.jar",
-          "size": 109483,
-          "sha512": "d08f6326618a3906a6234a6d4adedda91d1ea4e4d6c84a201497320c65324f4c99d9101d1e6a775b9fec50192f1de047fea50043e301d72b972093d98a9988f2",
-          "sha256": "c00c2ad234724f969209abe62914a44ecfa3861de1bac5d4d4a9e4a2afd38730",
-          "sha1": "1e84973bd3b52885ba59725ffcf69ad29ff0ad39",
-          "md5": "589015b6dbaa9706a80b0548f1820aad"
+          "size": 109499,
+          "sha512": "288147e43ecc66d7c99dca9f63e53f09ea4fb6176f270dd991ce0e50522f6526e43e0377c5998808cc1bc722a53546e9c0359b26af0397023c760d125ec08291",
+          "sha256": "d0b72fc4c96b948e07316212ec0ebc6279b1e17aa2e20273a59cfdc0ee72cc79",
+          "sha1": "1e91a08dfb68fa2dc4515999cf64e35d1d1a78fc",
+          "md5": "7f847152cba86c4db8fd89ee371c881b"
         }
       ]
     }
