@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "o7sbln7dkbby7geueytrelaqdq"
+      "buildId": "kwdwjeogfvb5tm3kgwcv636dva"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 109477,
-          "sha512": "4ed04fdd072154788a48a9c46879f57edbf4415efd9942408439e87072f8022a367eac1f18101c3a4429d060b9d62a0c72ac4d5893136d1ce1bee158ca953ce8",
-          "sha256": "6bddbc8cb0fef16568d8564995369b3e863649148cd5f6be13616a71a133e184",
-          "sha1": "2f4dba1d570faa484139c328607d67ca01706113",
-          "md5": "23b356f697173ae14d001d58941e050b"
+          "size": 109483,
+          "sha512": "4d2782f948522781410e92e9916c3822e572b91dc0a647cd95b78638d4bbccce05cdeface4ba2d20357a9cadd63beee695db613c3a3e3108c40aee173f87ca4b",
+          "sha256": "f7ec7d7bc5b1782f0815e38e7e8d915cb20140245ea3f31dd5288a70d8a0cc0b",
+          "sha1": "c769f4d133bcdba1680186d9ae3ffa59f4f79ac2",
+          "md5": "a1d52d5ca73c9e3fa566f73a87b124fb"
         }
       ]
     },
@@ -90,11 +90,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 109477,
-          "sha512": "4ed04fdd072154788a48a9c46879f57edbf4415efd9942408439e87072f8022a367eac1f18101c3a4429d060b9d62a0c72ac4d5893136d1ce1bee158ca953ce8",
-          "sha256": "6bddbc8cb0fef16568d8564995369b3e863649148cd5f6be13616a71a133e184",
-          "sha1": "2f4dba1d570faa484139c328607d67ca01706113",
-          "md5": "23b356f697173ae14d001d58941e050b"
+          "size": 109483,
+          "sha512": "4d2782f948522781410e92e9916c3822e572b91dc0a647cd95b78638d4bbccce05cdeface4ba2d20357a9cadd63beee695db613c3a3e3108c40aee173f87ca4b",
+          "sha256": "f7ec7d7bc5b1782f0815e38e7e8d915cb20140245ea3f31dd5288a70d8a0cc0b",
+          "sha1": "c769f4d133bcdba1680186d9ae3ffa59f4f79ac2",
+          "md5": "a1d52d5ca73c9e3fa566f73a87b124fb"
         }
       ]
     }

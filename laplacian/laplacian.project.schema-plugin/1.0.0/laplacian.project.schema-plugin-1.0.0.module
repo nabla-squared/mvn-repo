@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "qxuoolnv5vbjddi24oukk25gle"
+      "buildId": "xr4csul2vbe45koshebsos2y3m"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.project.schema-plugin-1.0.0.jar",
           "url": "laplacian.project.schema-plugin-1.0.0.jar",
-          "size": 55926,
-          "sha512": "11c71b3781d83476c166bfc6df85aa29aeea6f3249fdd57aab17abb80eae89cef45e957eda1b75dc1a452fc51a838e199060ac1fedaa3fd857650ed2cad47ab4",
-          "sha256": "e84484feb2b3a092dbb225d783bfcc92ea133f675da237d6b24c0ce7f7b774e5",
-          "sha1": "689c5a2db8c4ff15043fd94730e0b639ed467ec0",
-          "md5": "b6f29b8d4efb4f0c5f836e223f9c907d"
+          "size": 66894,
+          "sha512": "fdf8c25d1d3b89290c1bf1cd7a64bde29fc1b365924fcdd1d2d60199a948e28e8decba523bed20e7f8ebc64e69dad78bdcd31cc1ff3e43f8f7e07e5816006926",
+          "sha256": "7a6f33ad69eefed1b4c637a3b094cbccc0f8972b73b7c5bdcc290ab0f3ee1d2f",
+          "sha1": "cb1877ba045589d349e1b200bf06bc8cf479e02f",
+          "md5": "58842f4cc4f287b70c9f2cbc02845fff"
         }
       ]
     },
@@ -90,11 +90,11 @@
         {
           "name": "laplacian.project.schema-plugin-1.0.0.jar",
           "url": "laplacian.project.schema-plugin-1.0.0.jar",
-          "size": 55926,
-          "sha512": "11c71b3781d83476c166bfc6df85aa29aeea6f3249fdd57aab17abb80eae89cef45e957eda1b75dc1a452fc51a838e199060ac1fedaa3fd857650ed2cad47ab4",
-          "sha256": "e84484feb2b3a092dbb225d783bfcc92ea133f675da237d6b24c0ce7f7b774e5",
-          "sha1": "689c5a2db8c4ff15043fd94730e0b639ed467ec0",
-          "md5": "b6f29b8d4efb4f0c5f836e223f9c907d"
+          "size": 66894,
+          "sha512": "fdf8c25d1d3b89290c1bf1cd7a64bde29fc1b365924fcdd1d2d60199a948e28e8decba523bed20e7f8ebc64e69dad78bdcd31cc1ff3e43f8f7e07e5816006926",
+          "sha256": "7a6f33ad69eefed1b4c637a3b094cbccc0f8972b73b7c5bdcc290ab0f3ee1d2f",
+          "sha1": "cb1877ba045589d349e1b200bf06bc8cf479e02f",
+          "md5": "58842f4cc4f287b70c9f2cbc02845fff"
         }
       ]
     }
