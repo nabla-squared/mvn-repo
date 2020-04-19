@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>laplacian</groupId>
-  <artifactId>laplacian.project.base-template</artifactId>
+  <artifactId>laplacian.projects</artifactId>
   <versioning>
     <latest>1.0.0</latest>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20200419021322</lastUpdated>
+    <lastUpdated>20200419040204</lastUpdated>
   </versioning>
 </metadata>
