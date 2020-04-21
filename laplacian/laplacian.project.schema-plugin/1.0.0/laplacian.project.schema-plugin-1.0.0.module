@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "c7cg2ltknjh6tok5evc2gpztg4"
+      "buildId": "jyysskgqbvenndjz4an5jdbk2u"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.project.schema-plugin-1.0.0.jar",
           "url": "laplacian.project.schema-plugin-1.0.0.jar",
-          "size": 71246,
-          "sha512": "c137f6ea0110fe785849778a2cddc41851adbefa09c3de4981cfccb0698b11708f8c357f5e257531dc914ca47da1d49ce069a678e0ebf27473d6df17a3e7d0d7",
-          "sha256": "1f96dc051bb8151f0202816f4f8e26d5f416160ffb55ca339520de2f09a89d22",
-          "sha1": "23e0fdb4110f84bb397dd411ef4938d5ad6bc57c",
-          "md5": "49b0020c0b1100aed1f9fb922792b6c3"
+          "size": 71582,
+          "sha512": "023d2c61c18f66739111bdacd68acea9ec1ab0075a9cc976cc0c85e415fb1e5b8c5b50d52e5e8a9da5ed27e3ba7385a9e23195787c94d3fcf4a7c6e14c5721ce",
+          "sha256": "3841db987c79167da3f449194b61c83d1d621c9434154733859d88211bec0dd5",
+          "sha1": "c9d337919d6865cdeeeaaaae6f59ef69f94fde3b",
+          "md5": "b516a09624eff1476dfe6476722af4ea"
         }
       ]
     },
@@ -76,11 +76,11 @@
         {
           "name": "laplacian.project.schema-plugin-1.0.0.jar",
           "url": "laplacian.project.schema-plugin-1.0.0.jar",
-          "size": 71246,
-          "sha512": "c137f6ea0110fe785849778a2cddc41851adbefa09c3de4981cfccb0698b11708f8c357f5e257531dc914ca47da1d49ce069a678e0ebf27473d6df17a3e7d0d7",
-          "sha256": "1f96dc051bb8151f0202816f4f8e26d5f416160ffb55ca339520de2f09a89d22",
-          "sha1": "23e0fdb4110f84bb397dd411ef4938d5ad6bc57c",
-          "md5": "49b0020c0b1100aed1f9fb922792b6c3"
+          "size": 71582,
+          "sha512": "023d2c61c18f66739111bdacd68acea9ec1ab0075a9cc976cc0c85e415fb1e5b8c5b50d52e5e8a9da5ed27e3ba7385a9e23195787c94d3fcf4a7c6e14c5721ce",
+          "sha256": "3841db987c79167da3f449194b61c83d1d621c9434154733859d88211bec0dd5",
+          "sha1": "c9d337919d6865cdeeeaaaae6f59ef69f94fde3b",
+          "md5": "b516a09624eff1476dfe6476722af4ea"
         }
       ]
     }
