@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "bv5jlu47ovapbpsn76ijvtfudi"
+      "buildId": "zwlk6b2x7bbmzbcqfl4ch4pgze"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 109790,
-          "sha512": "c91145b10fc7e8f6a177eb1cef1385c5b31aaec70a1e5de05a8fe32c3a8a479e7d38575b8fba7f73e2ac98d3330aeb975c6e99c2dbe82811c034391f12a365ee",
-          "sha256": "84413a5d12e9f5c812e69f14c89116f140097572e2e802dc5eea52176172cc00",
-          "sha1": "981dc87192235aa1414ea9461d6311bcd6ba1da1",
-          "md5": "3c3eb2d6e58f293905906aa5c13bac79"
+          "size": 96582,
+          "sha512": "31890dfdc8e32d28fce6fa88b1f5f59ddf7d5a3b4542a6da9bcc5ba0da2c981eacd06acee398a398de71c9e51c1429404f82d14d4ae3bc60c5197db477d09441",
+          "sha256": "fc33bddc383364c38943e431746ca9f82be576a219a36db89176f162c662dce4",
+          "sha1": "cfcd994d49e2e40eae8eb5228118cc28dce0ece8",
+          "md5": "daa5b3a0b5c9d34843866af7d72b6c88"
         }
       ]
     },
@@ -90,11 +90,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 109790,
-          "sha512": "c91145b10fc7e8f6a177eb1cef1385c5b31aaec70a1e5de05a8fe32c3a8a479e7d38575b8fba7f73e2ac98d3330aeb975c6e99c2dbe82811c034391f12a365ee",
-          "sha256": "84413a5d12e9f5c812e69f14c89116f140097572e2e802dc5eea52176172cc00",
-          "sha1": "981dc87192235aa1414ea9461d6311bcd6ba1da1",
-          "md5": "3c3eb2d6e58f293905906aa5c13bac79"
+          "size": 96582,
+          "sha512": "31890dfdc8e32d28fce6fa88b1f5f59ddf7d5a3b4542a6da9bcc5ba0da2c981eacd06acee398a398de71c9e51c1429404f82d14d4ae3bc60c5197db477d09441",
+          "sha256": "fc33bddc383364c38943e431746ca9f82be576a219a36db89176f162c662dce4",
+          "sha1": "cfcd994d49e2e40eae8eb5228118cc28dce0ece8",
+          "md5": "daa5b3a0b5c9d34843866af7d72b6c88"
         }
       ]
     }
