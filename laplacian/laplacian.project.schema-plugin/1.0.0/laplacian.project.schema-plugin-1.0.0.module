@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "ux3fjy76tjc4ho3gzlcqi57axa"
+      "buildId": "zjqwghj7cbbx5nceqf5vv2lzou"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.project.schema-plugin-1.0.0.jar",
           "url": "laplacian.project.schema-plugin-1.0.0.jar",
-          "size": 72041,
-          "sha512": "0ef034ce23c0dc69ba0e1a91cde6936efaab0da81a2217221f3a86dfeed3a2679a18e525e0bcbdb4245a3512ad40927e6841f16b7b99cb8993be796b60c89838",
-          "sha256": "48a752b9cfe4c7d9f29b6af5690188d45f9ea8e40be2107ea45c8cec72f9dc76",
-          "sha1": "1cebb2d86ca001c22dadef5ad5cc8cb38afa313a",
-          "md5": "1faf1e808c4cdcb813cba5a8b4f4a01c"
+          "size": 72987,
+          "sha512": "3e802b171cc5dbd3de39192a5deaf3cb78e7984b4b6509f249f3c453b3d5154fb532b7db0d5fc593bf4da232d7f40b523f65478fb70c8cada7362d9ca5297f3f",
+          "sha256": "03d9de1634dc29f8bd89b69fdb8add1c16a38421b9477a277755af62067c8f52",
+          "sha1": "9324e051c04a7e18f9bcaf6dd83ccc160c85699b",
+          "md5": "b8b06218d48298a7fbacb73795f74934"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "laplacian.project.schema-plugin-1.0.0.jar",
           "url": "laplacian.project.schema-plugin-1.0.0.jar",
-          "size": 72041,
-          "sha512": "0ef034ce23c0dc69ba0e1a91cde6936efaab0da81a2217221f3a86dfeed3a2679a18e525e0bcbdb4245a3512ad40927e6841f16b7b99cb8993be796b60c89838",
-          "sha256": "48a752b9cfe4c7d9f29b6af5690188d45f9ea8e40be2107ea45c8cec72f9dc76",
-          "sha1": "1cebb2d86ca001c22dadef5ad5cc8cb38afa313a",
-          "md5": "1faf1e808c4cdcb813cba5a8b4f4a01c"
+          "size": 72987,
+          "sha512": "3e802b171cc5dbd3de39192a5deaf3cb78e7984b4b6509f249f3c453b3d5154fb532b7db0d5fc593bf4da232d7f40b523f65478fb70c8cada7362d9ca5297f3f",
+          "sha256": "03d9de1634dc29f8bd89b69fdb8add1c16a38421b9477a277755af62067c8f52",
+          "sha1": "9324e051c04a7e18f9bcaf6dd83ccc160c85699b",
+          "md5": "b8b06218d48298a7fbacb73795f74934"
         }
       ]
     }
