@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "zjqwghj7cbbx5nceqf5vv2lzou"
+      "buildId": "ki73zlog55cclpoh7hp24ozhs4"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.project.schema-plugin-1.0.0.jar",
           "url": "laplacian.project.schema-plugin-1.0.0.jar",
-          "size": 72987,
-          "sha512": "3e802b171cc5dbd3de39192a5deaf3cb78e7984b4b6509f249f3c453b3d5154fb532b7db0d5fc593bf4da232d7f40b523f65478fb70c8cada7362d9ca5297f3f",
-          "sha256": "03d9de1634dc29f8bd89b69fdb8add1c16a38421b9477a277755af62067c8f52",
-          "sha1": "9324e051c04a7e18f9bcaf6dd83ccc160c85699b",
-          "md5": "b8b06218d48298a7fbacb73795f74934"
+          "size": 94031,
+          "sha512": "89fec437b6b63815a4f0327714d5dd964acea77d4d71751bfc412a0ca4024e938465ff58b9dbdfba71289742ce7d1d18712c3de0a59b046ff7c4617f71e26b51",
+          "sha256": "07770048bd9869a1e91e38b0f3d8287c1f9e5a7372837d876601bbf9349764ee",
+          "sha1": "824f83607e70f986f7d2445091ba3e5258ae9421",
+          "md5": "d3d2cf902f4bb82d233362c2f79d5d1c"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "laplacian.project.schema-plugin-1.0.0.jar",
           "url": "laplacian.project.schema-plugin-1.0.0.jar",
-          "size": 72987,
-          "sha512": "3e802b171cc5dbd3de39192a5deaf3cb78e7984b4b6509f249f3c453b3d5154fb532b7db0d5fc593bf4da232d7f40b523f65478fb70c8cada7362d9ca5297f3f",
-          "sha256": "03d9de1634dc29f8bd89b69fdb8add1c16a38421b9477a277755af62067c8f52",
-          "sha1": "9324e051c04a7e18f9bcaf6dd83ccc160c85699b",
-          "md5": "b8b06218d48298a7fbacb73795f74934"
+          "size": 94031,
+          "sha512": "89fec437b6b63815a4f0327714d5dd964acea77d4d71751bfc412a0ca4024e938465ff58b9dbdfba71289742ce7d1d18712c3de0a59b046ff7c4617f71e26b51",
+          "sha256": "07770048bd9869a1e91e38b0f3d8287c1f9e5a7372837d876601bbf9349764ee",
+          "sha1": "824f83607e70f986f7d2445091ba3e5258ae9421",
+          "md5": "d3d2cf902f4bb82d233362c2f79d5d1c"
         }
       ]
     }
