@@ -30,7 +30,13 @@
     </dependency>
     <dependency>
       <groupId>laplacian</groupId>
-      <artifactId>laplacian.project.schema-plugin</artifactId>
+      <artifactId>laplacian.project.domain-model-plugin</artifactId>
+      <version>1.0.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>laplacian</groupId>
+      <artifactId>laplacian.common-model-plugin</artifactId>
       <version>1.0.0</version>
       <scope>runtime</scope>
     </dependency>
