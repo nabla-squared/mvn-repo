@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "o6sfwl6xzve4rlxbhtb7ryai3y"
+      "buildId": "3i55hxd4bjdepkvg6gn5v2wwmi"
     }
   },
   "variants": [
@@ -31,10 +31,10 @@
           "name": "laplacian.common-model-plugin-1.0.0.jar",
           "url": "laplacian.common-model-plugin-1.0.0.jar",
           "size": 59913,
-          "sha512": "4001099884e52fd85d04768250552a8266105328651f2b429a1531f16aaf0ba7265a1e744110b81b87345acee83261ee9f0d9fd162e83501178cce77b4f3d092",
-          "sha256": "50f4644a5fcec8ed30864006d385b8eed0e89da46b129c960db6775f1e19faca",
-          "sha1": "bfb895abada86b93910f9b32f23db61363c0bdf3",
-          "md5": "e388dadd8ef1a3e8a761f47bee03d50e"
+          "sha512": "4f1d09fd8caa3d73fb0341a4d4901a7bc33664f66db357439c46d78ef5f006e24727169e89c0cafcc2d60acaec89f400c618fb51cfc68589e72cdc57ab58207e",
+          "sha256": "2026a741188c186dba08a940b8613e703304c86035ca57eae99421c3bd865d7f",
+          "sha1": "a7259ab0844513b13eeaf902bfc2085139d2d02e",
+          "md5": "202f7d3792e7e3cba98cf5ae8e188215"
         }
       ]
     },
@@ -98,10 +98,10 @@
           "name": "laplacian.common-model-plugin-1.0.0.jar",
           "url": "laplacian.common-model-plugin-1.0.0.jar",
           "size": 59913,
-          "sha512": "4001099884e52fd85d04768250552a8266105328651f2b429a1531f16aaf0ba7265a1e744110b81b87345acee83261ee9f0d9fd162e83501178cce77b4f3d092",
-          "sha256": "50f4644a5fcec8ed30864006d385b8eed0e89da46b129c960db6775f1e19faca",
-          "sha1": "bfb895abada86b93910f9b32f23db61363c0bdf3",
-          "md5": "e388dadd8ef1a3e8a761f47bee03d50e"
+          "sha512": "4f1d09fd8caa3d73fb0341a4d4901a7bc33664f66db357439c46d78ef5f006e24727169e89c0cafcc2d60acaec89f400c618fb51cfc68589e72cdc57ab58207e",
+          "sha256": "2026a741188c186dba08a940b8613e703304c86035ca57eae99421c3bd865d7f",
+          "sha1": "a7259ab0844513b13eeaf902bfc2085139d2d02e",
+          "md5": "202f7d3792e7e3cba98cf5ae8e188215"
         }
       ]
     }

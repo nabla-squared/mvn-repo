@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "hzmyc6kr6zh6fmaszrkgu4mezy"
+      "buildId": "tb6wqzlqpvh45hay6f72pku4va"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 96558,
-          "sha512": "a4f13844276223f3f4d28e01cdcff0a0e1c5d89b8644f2be5f13973a3b06d23d84f3bb3b8f752e92fae20f0f136a97c5150e4ef764a61e5398e1811add75e84d",
-          "sha256": "4c0fa2323546d7c8ca2cda425ed97893baa3953d665aac2d399f729a826c9b94",
-          "sha1": "be3539d8fe6362a1d978b64b1bdf8f12c453572d",
-          "md5": "ad5ac6fc4e7f87e5af5222f2355698df"
+          "size": 97493,
+          "sha512": "58586c4a96ac06fffce8f04016a4f47e646b5143e6773e32d4d42ee647b4bfe6ffef6c4bf37eceec8f0f25c68aa286471c449085c2e2668f7b4c8b077c51a5a8",
+          "sha256": "ba4db735f31fccd8b8c17b79a1e1b2a87267c62d91d14d41e4491179a523643f",
+          "sha1": "fcd4aaf94ca7e3d4313331b8c95d112b2453399d",
+          "md5": "88afa05c7c52b735ce4876bf233cc2cb"
         }
       ]
     },
@@ -73,6 +73,13 @@
         },
         {
           "group": "laplacian",
+          "module": "laplacian.metamodel-plugin",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "laplacian",
           "module": "laplacian.project.domain-model-plugin",
           "version": {
             "requires": "1.0.0"
@@ -84,24 +91,17 @@
           "version": {
             "requires": "1.0.0"
           }
-        },
-        {
-          "group": "laplacian",
-          "module": "laplacian.metamodel-plugin",
-          "version": {
-            "requires": "1.0.0"
-          }
         }
       ],
       "files": [
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 96558,
-          "sha512": "a4f13844276223f3f4d28e01cdcff0a0e1c5d89b8644f2be5f13973a3b06d23d84f3bb3b8f752e92fae20f0f136a97c5150e4ef764a61e5398e1811add75e84d",
-          "sha256": "4c0fa2323546d7c8ca2cda425ed97893baa3953d665aac2d399f729a826c9b94",
-          "sha1": "be3539d8fe6362a1d978b64b1bdf8f12c453572d",
-          "md5": "ad5ac6fc4e7f87e5af5222f2355698df"
+          "size": 97493,
+          "sha512": "58586c4a96ac06fffce8f04016a4f47e646b5143e6773e32d4d42ee647b4bfe6ffef6c4bf37eceec8f0f25c68aa286471c449085c2e2668f7b4c8b077c51a5a8",
+          "sha256": "ba4db735f31fccd8b8c17b79a1e1b2a87267c62d91d14d41e4491179a523643f",
+          "sha1": "fcd4aaf94ca7e3d4313331b8c95d112b2453399d",
+          "md5": "88afa05c7c52b735ce4876bf233cc2cb"
         }
       ]
     }
