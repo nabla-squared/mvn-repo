@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "laplacian-arch",
+    "module": "laplacian-arch.datasource.domain-model-plugin",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.2.2",
+      "buildId": "ybijom3bznfmvnrtbmlcb3jvey"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "laplacian-arch.datasource.domain-model-plugin-1.0.0.jar",
+          "url": "laplacian-arch.datasource.domain-model-plugin-1.0.0.jar",
+          "size": 45152,
+          "sha512": "d656837da7cd4500a6222da62cadf720ba2e80564940b772455f0200603c5561f01db44a116c9b7c0a0fb4627e6652fad940b95458343ee9962efe3a83821a81",
+          "sha256": "28ff67a6fb0c9c626b6713a493e7de1ab9fd05373e88bc06266c5ae5aa26f932",
+          "sha1": "dc3b6243047ef85a6a8858bd4486b03d7e204dc5",
+          "md5": "eaaced5e47f94c147fe824cac75b83d0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.3.70"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.3.70"
+          }
+        },
+        {
+          "group": "laplacian",
+          "module": "laplacian.generator",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "laplacian",
+          "module": "laplacian.metamodel-plugin",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "laplacian",
+          "module": "laplacian.project.domain-model-plugin",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "laplacian",
+          "module": "laplacian.common-model-plugin",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "laplacian-arch.datasource.domain-model-plugin-1.0.0.jar",
+          "url": "laplacian-arch.datasource.domain-model-plugin-1.0.0.jar",
+          "size": 45152,
+          "sha512": "d656837da7cd4500a6222da62cadf720ba2e80564940b772455f0200603c5561f01db44a116c9b7c0a0fb4627e6652fad940b95458343ee9962efe3a83821a81",
+          "sha256": "28ff67a6fb0c9c626b6713a493e7de1ab9fd05373e88bc06266c5ae5aa26f932",
+          "sha1": "dc3b6243047ef85a6a8858bd4486b03d7e204dc5",
+          "md5": "eaaced5e47f94c147fe824cac75b83d0"
+        }
+      ]
+    }
+  ]
+}
