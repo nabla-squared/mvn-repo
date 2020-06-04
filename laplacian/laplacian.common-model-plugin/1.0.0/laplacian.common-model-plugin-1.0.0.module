@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "3i55hxd4bjdepkvg6gn5v2wwmi"
+      "buildId": "g25supzsv5hajpxx56ymgowmmq"
     }
   },
   "variants": [
@@ -31,10 +31,10 @@
           "name": "laplacian.common-model-plugin-1.0.0.jar",
           "url": "laplacian.common-model-plugin-1.0.0.jar",
           "size": 59913,
-          "sha512": "4f1d09fd8caa3d73fb0341a4d4901a7bc33664f66db357439c46d78ef5f006e24727169e89c0cafcc2d60acaec89f400c618fb51cfc68589e72cdc57ab58207e",
-          "sha256": "2026a741188c186dba08a940b8613e703304c86035ca57eae99421c3bd865d7f",
-          "sha1": "a7259ab0844513b13eeaf902bfc2085139d2d02e",
-          "md5": "202f7d3792e7e3cba98cf5ae8e188215"
+          "sha512": "02c3ca8d236725f682705accae2ea7539407efba9f1892bd983a4a017f5af8d1230b222f287420702fcf9970669de53df66fe634a3c62ad313d986d1238a2cf7",
+          "sha256": "f61a386797af41e4d0b32221fe077830cab9d3d8089673d2a8bc65bd93a59154",
+          "sha1": "be48bf1909401fa18b04a4b5f9ed873ebba9d8a9",
+          "md5": "cdf78674cf3d50708a258c5c45d537cb"
         }
       ]
     },
@@ -73,6 +73,13 @@
         },
         {
           "group": "laplacian",
+          "module": "laplacian.metamodel-plugin",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "laplacian",
           "module": "laplacian.project.domain-model-plugin",
           "version": {
             "requires": "1.0.0"
@@ -84,13 +91,6 @@
           "version": {
             "requires": "1.0.0"
           }
-        },
-        {
-          "group": "laplacian",
-          "module": "laplacian.metamodel-plugin",
-          "version": {
-            "requires": "1.0.0"
-          }
         }
       ],
       "files": [
@@ -98,10 +98,10 @@
           "name": "laplacian.common-model-plugin-1.0.0.jar",
           "url": "laplacian.common-model-plugin-1.0.0.jar",
           "size": 59913,
-          "sha512": "4f1d09fd8caa3d73fb0341a4d4901a7bc33664f66db357439c46d78ef5f006e24727169e89c0cafcc2d60acaec89f400c618fb51cfc68589e72cdc57ab58207e",
-          "sha256": "2026a741188c186dba08a940b8613e703304c86035ca57eae99421c3bd865d7f",
-          "sha1": "a7259ab0844513b13eeaf902bfc2085139d2d02e",
-          "md5": "202f7d3792e7e3cba98cf5ae8e188215"
+          "sha512": "02c3ca8d236725f682705accae2ea7539407efba9f1892bd983a4a017f5af8d1230b222f287420702fcf9970669de53df66fe634a3c62ad313d986d1238a2cf7",
+          "sha256": "f61a386797af41e4d0b32221fe077830cab9d3d8089673d2a8bc65bd93a59154",
+          "sha1": "be48bf1909401fa18b04a4b5f9ed873ebba9d8a9",
+          "md5": "cdf78674cf3d50708a258c5c45d537cb"
         }
       ]
     }
