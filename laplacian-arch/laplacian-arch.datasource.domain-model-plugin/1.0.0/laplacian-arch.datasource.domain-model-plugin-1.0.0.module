@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "zm7cjf2owbgodiv5jne7csinn4"
+      "buildId": "r2xwgg3ifjf5fbkepmpk65w3mm"
     }
   },
   "variants": [
@@ -20,7 +20,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 8,
+        "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api",
         "org.jetbrains.kotlin.localToProject": "public",
@@ -30,11 +30,11 @@
         {
           "name": "laplacian-arch.datasource.domain-model-plugin-1.0.0.jar",
           "url": "laplacian-arch.datasource.domain-model-plugin-1.0.0.jar",
-          "size": 45169,
-          "sha512": "08c875474b07d6e131e69bd264037d835aeaf8e0b82ae073d2ab9e5dae843a0f1e164ea6bad136877d129a705ae61954551e559c282e1b6f066978ae6bd41e39",
-          "sha256": "568771b077e2fb30503fcc643e9efc114e73a5150ee668bc3a19df0514ce48df",
-          "sha1": "04d5cb6e387a4158e9e7da7fe493ed55f7e2b4e6",
-          "md5": "ff07a7ced9135a1f7a03b36ef82bf01c"
+          "size": 45096,
+          "sha512": "e4415bc156ad3436abf473aa1ffc7aa63ce107b01f0bdeab957fab69b6924120705ec8d2fd6e1389d9fbda765313cdbf88614a0f4d1430aac09bae5a90973599",
+          "sha256": "5063bb26b06537dc590614a67deceda021b447ab7992a43d713f4c3054de1366",
+          "sha1": "9a745dde8affa5dc074fb5ec751f1b0a949b0b14",
+          "md5": "5cb78e3a37d8a794785b3ddb2d4a7a08"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 8,
+        "org.gradle.jvm.version": 11,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime",
         "org.jetbrains.kotlin.localToProject": "public",
@@ -97,11 +97,11 @@
         {
           "name": "laplacian-arch.datasource.domain-model-plugin-1.0.0.jar",
           "url": "laplacian-arch.datasource.domain-model-plugin-1.0.0.jar",
-          "size": 45169,
-          "sha512": "08c875474b07d6e131e69bd264037d835aeaf8e0b82ae073d2ab9e5dae843a0f1e164ea6bad136877d129a705ae61954551e559c282e1b6f066978ae6bd41e39",
-          "sha256": "568771b077e2fb30503fcc643e9efc114e73a5150ee668bc3a19df0514ce48df",
-          "sha1": "04d5cb6e387a4158e9e7da7fe493ed55f7e2b4e6",
-          "md5": "ff07a7ced9135a1f7a03b36ef82bf01c"
+          "size": 45096,
+          "sha512": "e4415bc156ad3436abf473aa1ffc7aa63ce107b01f0bdeab957fab69b6924120705ec8d2fd6e1389d9fbda765313cdbf88614a0f4d1430aac09bae5a90973599",
+          "sha256": "5063bb26b06537dc590614a67deceda021b447ab7992a43d713f4c3054de1366",
+          "sha1": "9a745dde8affa5dc074fb5ec751f1b0a949b0b14",
+          "md5": "5cb78e3a37d8a794785b3ddb2d4a7a08"
         }
       ]
     }
