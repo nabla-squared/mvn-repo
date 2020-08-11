@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "lngr3j3rnrc5lc6erk3zwcw5ei"
+      "buildId": "cbq5gnawiragriqkphdig7rnw4"
     }
   },
   "variants": [
@@ -39,11 +39,11 @@
         {
           "name": "laplacian.generator-1.0.0.jar",
           "url": "laplacian.generator-1.0.0.jar",
-          "size": 224523,
-          "sha512": "97b0f5c68e40a02aeef3cab7a77c02c625e7fd34f4a0400d2295d56b73bba045a0373fe4e95516a56b6f19ecf0d7d9f5a412fdd98c1398cb96d3df0f884db7af",
-          "sha256": "c7e378309c68629e073f37e099003dac9c6d915182b218f8873275ec8545cdd2",
-          "sha1": "ee2263b21f89e30b44fbf60ceeebdc9663ddf542",
-          "md5": "21d99d6cf38a687b781c2abcc35ca918"
+          "size": 230440,
+          "sha512": "8a29e869fdc4f91e2c1d427bea13cc22533f10fb8169e0b3c9d958f35172faef0ee75074bc6ae4157cde2ba046b5021a0a4cc845e7edbc690c415b5ec7dea23f",
+          "sha256": "4991ffd388a4fccd854381bcc45a1077df804f1362b760a8cebd626ea0904ed0",
+          "sha1": "40ece718d3be877f4bcf016a5bbc990d2be60c3a",
+          "md5": "0f680dd41bbbc529d93d73229b7c342b"
         }
       ]
     },
@@ -109,6 +109,13 @@
           }
         },
         {
+          "group": "com.github.javafaker",
+          "module": "javafaker",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
           "group": "com.github.jknack",
           "module": "handlebars",
           "version": {
@@ -120,11 +127,11 @@
         {
           "name": "laplacian.generator-1.0.0.jar",
           "url": "laplacian.generator-1.0.0.jar",
-          "size": 224523,
-          "sha512": "97b0f5c68e40a02aeef3cab7a77c02c625e7fd34f4a0400d2295d56b73bba045a0373fe4e95516a56b6f19ecf0d7d9f5a412fdd98c1398cb96d3df0f884db7af",
-          "sha256": "c7e378309c68629e073f37e099003dac9c6d915182b218f8873275ec8545cdd2",
-          "sha1": "ee2263b21f89e30b44fbf60ceeebdc9663ddf542",
-          "md5": "21d99d6cf38a687b781c2abcc35ca918"
+          "size": 230440,
+          "sha512": "8a29e869fdc4f91e2c1d427bea13cc22533f10fb8169e0b3c9d958f35172faef0ee75074bc6ae4157cde2ba046b5021a0a4cc845e7edbc690c415b5ec7dea23f",
+          "sha256": "4991ffd388a4fccd854381bcc45a1077df804f1362b760a8cebd626ea0904ed0",
+          "sha1": "40ece718d3be877f4bcf016a5bbc990d2be60c3a",
+          "md5": "0f680dd41bbbc529d93d73229b7c342b"
         }
       ]
     }
