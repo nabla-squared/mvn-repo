@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "vtyvqazozvarll3zzyvg7cwyii"
+      "buildId": "zs3yce6fobhp7gekrxcwpkagqm"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian-arch.api-service.domain-model-plugin-1.0.0.jar",
           "url": "laplacian-arch.api-service.domain-model-plugin-1.0.0.jar",
-          "size": 103787,
-          "sha512": "5a557c4c0bdb314027afd699ce8b29d4702838ab5bcd08352871d062f3c2d98b17e0e291bed02ac6e825e8335e3005c118ff3b2b8b08e7dbe1d045fdb56a2598",
-          "sha256": "0316b6ad5cf57909632efb8ef2031050fcc5381573060b992f6137fd3ab39e38",
-          "sha1": "2480bcdcf0d1502d40df9155b1a607fc3c3c4508",
-          "md5": "1a97bece9dcd490ad8700dddeec3269e"
+          "size": 54014,
+          "sha512": "bf76b569b22931c52f30e204f280fba8d80f0ceef356a636624d7adeaf8bb5b2fe79ce80fceb815664c796262e7aebe9aea7c6ca5cf6dc79eac7300fc3599985",
+          "sha256": "1bf8321552d68a54e256aea06c49bd241fea40b7bf620ff086bce8483eec91cf",
+          "sha1": "eaa6f85673377135502b442b9eb7d00972c45278",
+          "md5": "e36156f1a34d6cc05e8d010a0935c5a5"
         }
       ]
     },
@@ -91,24 +91,17 @@
           "version": {
             "requires": "1.0.0"
           }
-        },
-        {
-          "group": "laplacian-arch",
-          "module": "laplacian-arch.datasource.domain-model-plugin",
-          "version": {
-            "requires": "1.0.0"
-          }
         }
       ],
       "files": [
         {
           "name": "laplacian-arch.api-service.domain-model-plugin-1.0.0.jar",
           "url": "laplacian-arch.api-service.domain-model-plugin-1.0.0.jar",
-          "size": 103787,
-          "sha512": "5a557c4c0bdb314027afd699ce8b29d4702838ab5bcd08352871d062f3c2d98b17e0e291bed02ac6e825e8335e3005c118ff3b2b8b08e7dbe1d045fdb56a2598",
-          "sha256": "0316b6ad5cf57909632efb8ef2031050fcc5381573060b992f6137fd3ab39e38",
-          "sha1": "2480bcdcf0d1502d40df9155b1a607fc3c3c4508",
-          "md5": "1a97bece9dcd490ad8700dddeec3269e"
+          "size": 54014,
+          "sha512": "bf76b569b22931c52f30e204f280fba8d80f0ceef356a636624d7adeaf8bb5b2fe79ce80fceb815664c796262e7aebe9aea7c6ca5cf6dc79eac7300fc3599985",
+          "sha256": "1bf8321552d68a54e256aea06c49bd241fea40b7bf620ff086bce8483eec91cf",
+          "sha1": "eaa6f85673377135502b442b9eb7d00972c45278",
+          "md5": "e36156f1a34d6cc05e8d010a0935c5a5"
         }
       ]
     }

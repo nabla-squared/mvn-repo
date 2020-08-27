@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "cbq5gnawiragriqkphdig7rnw4"
+      "buildId": "h2tui2vsofev5dsiflz4m6fc5m"
     }
   },
   "variants": [
@@ -40,10 +40,10 @@
           "name": "laplacian.generator-1.0.0.jar",
           "url": "laplacian.generator-1.0.0.jar",
           "size": 230440,
-          "sha512": "8a29e869fdc4f91e2c1d427bea13cc22533f10fb8169e0b3c9d958f35172faef0ee75074bc6ae4157cde2ba046b5021a0a4cc845e7edbc690c415b5ec7dea23f",
-          "sha256": "4991ffd388a4fccd854381bcc45a1077df804f1362b760a8cebd626ea0904ed0",
-          "sha1": "40ece718d3be877f4bcf016a5bbc990d2be60c3a",
-          "md5": "0f680dd41bbbc529d93d73229b7c342b"
+          "sha512": "df922d41df84b4941b076de6736b5b91ad38f4f7d6b665983d5301bc03038c73af58ff49bbc9d01c3871c374cb7a613e95409943044308e50f15b5d061119be5",
+          "sha256": "d00c1b34e6770b141006079b5e97ee8fca5dcda3d735c062a4c889a2a3b485e6",
+          "sha1": "61c0e103b46bf4353bf3aafe492bb3b2ebc56435",
+          "md5": "a22b770027389f6874e1f22d3e74d279"
         }
       ]
     },
@@ -128,10 +128,10 @@
           "name": "laplacian.generator-1.0.0.jar",
           "url": "laplacian.generator-1.0.0.jar",
           "size": 230440,
-          "sha512": "8a29e869fdc4f91e2c1d427bea13cc22533f10fb8169e0b3c9d958f35172faef0ee75074bc6ae4157cde2ba046b5021a0a4cc845e7edbc690c415b5ec7dea23f",
-          "sha256": "4991ffd388a4fccd854381bcc45a1077df804f1362b760a8cebd626ea0904ed0",
-          "sha1": "40ece718d3be877f4bcf016a5bbc990d2be60c3a",
-          "md5": "0f680dd41bbbc529d93d73229b7c342b"
+          "sha512": "df922d41df84b4941b076de6736b5b91ad38f4f7d6b665983d5301bc03038c73af58ff49bbc9d01c3871c374cb7a613e95409943044308e50f15b5d061119be5",
+          "sha256": "d00c1b34e6770b141006079b5e97ee8fca5dcda3d735c062a4c889a2a3b485e6",
+          "sha1": "61c0e103b46bf4353bf3aafe492bb3b2ebc56435",
+          "md5": "a22b770027389f6874e1f22d3e74d279"
         }
       ]
     }
