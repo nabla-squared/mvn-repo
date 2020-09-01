@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "y7xhpuj2dfamhhzvn6tsoz3fam"
+      "buildId": "inopcfgjvrftdiph6w36dmjb3m"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.common-model-plugin-1.0.0.jar",
           "url": "laplacian.common-model-plugin-1.0.0.jar",
-          "size": 59852,
-          "sha512": "22de5c91e16ba70c6429cb7fc9f02193795adefee2b968ea5ac5891db67ae6a1a6cf09a219c5b2e05fdd7bc80c6d7053f702457ea3f2eaf18c507641159b248c",
-          "sha256": "2725720da00e6b5e6149dd5efc6222c8c1aafe7a1c3596144b1e64e3fc88b799",
-          "sha1": "c6910e6c0b9721e10ec63c3d2caf2df19c1d27fe",
-          "md5": "b3b76f667a718fb3b1d9b0c560268e44"
+          "size": 59477,
+          "sha512": "7e0cb71bf75df4da101bbb45439f57f952fea3a5871729b8fafba4332dbd8e3b33f1f39e315be12bc112f75c217aa0056c86b204d56ebf792fd9be791da94771",
+          "sha256": "c6ca346510c7f72bb8c3db3e15d5d9e9543d569f3ab387313142b4e8c3604d57",
+          "sha1": "e7827611065a760a919c3fc10f6bdcaedf315bfc",
+          "md5": "4cfb34e91ad8aabaf0234f71896671df"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "laplacian.common-model-plugin-1.0.0.jar",
           "url": "laplacian.common-model-plugin-1.0.0.jar",
-          "size": 59852,
-          "sha512": "22de5c91e16ba70c6429cb7fc9f02193795adefee2b968ea5ac5891db67ae6a1a6cf09a219c5b2e05fdd7bc80c6d7053f702457ea3f2eaf18c507641159b248c",
-          "sha256": "2725720da00e6b5e6149dd5efc6222c8c1aafe7a1c3596144b1e64e3fc88b799",
-          "sha1": "c6910e6c0b9721e10ec63c3d2caf2df19c1d27fe",
-          "md5": "b3b76f667a718fb3b1d9b0c560268e44"
+          "size": 59477,
+          "sha512": "7e0cb71bf75df4da101bbb45439f57f952fea3a5871729b8fafba4332dbd8e3b33f1f39e315be12bc112f75c217aa0056c86b204d56ebf792fd9be791da94771",
+          "sha256": "c6ca346510c7f72bb8c3db3e15d5d9e9543d569f3ab387313142b4e8c3604d57",
+          "sha1": "e7827611065a760a919c3fc10f6bdcaedf315bfc",
+          "md5": "4cfb34e91ad8aabaf0234f71896671df"
         }
       ]
     }
