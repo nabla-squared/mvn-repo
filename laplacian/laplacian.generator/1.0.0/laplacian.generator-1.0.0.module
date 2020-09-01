@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "5idvdlkainerlj6w7udp4mzpya"
+      "buildId": "m3zlrhbm3rbi7f5cutui2c4e4y"
     }
   },
   "variants": [
@@ -77,14 +77,21 @@
           "group": "com.fasterxml.jackson.dataformat",
           "module": "jackson-dataformat-yaml",
           "version": {
-            "requires": "2.11.0"
+            "requires": "2.11.2"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-core",
+          "version": {
+            "requires": "2.11.2"
           }
         },
         {
           "group": "com.fasterxml.jackson.module",
           "module": "jackson-module-kotlin",
           "version": {
-            "requires": "2.11.0"
+            "requires": "2.11.2"
           }
         },
         {
