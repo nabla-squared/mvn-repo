@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.2.2",
-      "buildId": "ajwzsoxbyreedpzu7henpd7e6e"
+      "buildId": "hml2bt4pffbingofty72sci7t4"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian-arch.api-service.domain-model-plugin-1.0.0.jar",
           "url": "laplacian-arch.api-service.domain-model-plugin-1.0.0.jar",
-          "size": 135419,
-          "sha512": "21a2cdfcfb15ca87d638179075e9e5d2ec6279adc3e2836da495851f8e3c2cf01124a0dae5d9a64407b68ac4c41cb141d241f778a6f17e35500a0fafa4798828",
-          "sha256": "fc90fc24e739be8983790380aa0ddb6d398210126e92d910dacb23db31b7a4bb",
-          "sha1": "3a2b0d1c73513040f43c520be64462499c4fb773",
-          "md5": "f76715167ac940a0d9608df69f35eb23"
+          "size": 135074,
+          "sha512": "d52245ef5bb8039a2615f5dbae3cbcd07278001eb3943b9e70ba3eaf91ab7640467008c857386119320e01fe8f833eaba97681c20c01642d548e13a1db33bc47",
+          "sha256": "6a8c2bbbb2c5dfb4607f7131b32f87822fff502f98f72ce2def895e5debb3428",
+          "sha1": "56a3e2b5fb550fd2b9f7fbb059e5b437bff7729f",
+          "md5": "c0752485e2233eb208c7e1c72060920d"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "laplacian-arch.api-service.domain-model-plugin-1.0.0.jar",
           "url": "laplacian-arch.api-service.domain-model-plugin-1.0.0.jar",
-          "size": 135419,
-          "sha512": "21a2cdfcfb15ca87d638179075e9e5d2ec6279adc3e2836da495851f8e3c2cf01124a0dae5d9a64407b68ac4c41cb141d241f778a6f17e35500a0fafa4798828",
-          "sha256": "fc90fc24e739be8983790380aa0ddb6d398210126e92d910dacb23db31b7a4bb",
-          "sha1": "3a2b0d1c73513040f43c520be64462499c4fb773",
-          "md5": "f76715167ac940a0d9608df69f35eb23"
+          "size": 135074,
+          "sha512": "d52245ef5bb8039a2615f5dbae3cbcd07278001eb3943b9e70ba3eaf91ab7640467008c857386119320e01fe8f833eaba97681c20c01642d548e13a1db33bc47",
+          "sha256": "6a8c2bbbb2c5dfb4607f7131b32f87822fff502f98f72ce2def895e5debb3428",
+          "sha1": "56a3e2b5fb550fd2b9f7fbb059e5b437bff7729f",
+          "md5": "c0752485e2233eb208c7e1c72060920d"
         }
       ]
     }
