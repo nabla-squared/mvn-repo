@@ -10,8 +10,8 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.2.2",
-      "buildId": "i6vnylszxfh6lpxmvwpr76kxri"
+      "version": "6.6.1",
+      "buildId": "53pl63typbafzbchtzwehhsue4"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 93423,
-          "sha512": "89410c147312d63caf11da57e45c04fed793f8a77f5d7cadf3a9a4ea37aa0a9d4af4fcab43598450ed1add7f6da72a2daa3b88688ec324d5cf62f5ce710d0c51",
-          "sha256": "66fcaf777d4ee56c99d43268a960d806133854b3974eb587f3929cc3226b93ad",
-          "sha1": "fb44a9c9ffd3adf2be2fc778e0ff89f49ec43f6a",
-          "md5": "f89e686a3e47dd4b1bb6987f93653e5a"
+          "size": 93398,
+          "sha512": "a2c2b4ead817c5511d0113e84c6ae8e49154684d36b9caf4bf890707efd74d71f326374e464feabd10fb9e70b93daa446efe024a13e705f0690921c93dd8818f",
+          "sha256": "268999c8edcb1532ce45c1201792822c878ea588bc71604c6aba52361ad1b05b",
+          "sha1": "f6448ae22c4a4d9d3288510b1e0434b864059a43",
+          "md5": "ab83773404868d5c0761616ff884644b"
         }
       ]
     },
@@ -54,14 +54,14 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.3.70"
+            "requires": "1.3.72"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-reflect",
           "version": {
-            "requires": "1.3.70"
+            "requires": "1.3.72"
           }
         },
         {
@@ -97,11 +97,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 93423,
-          "sha512": "89410c147312d63caf11da57e45c04fed793f8a77f5d7cadf3a9a4ea37aa0a9d4af4fcab43598450ed1add7f6da72a2daa3b88688ec324d5cf62f5ce710d0c51",
-          "sha256": "66fcaf777d4ee56c99d43268a960d806133854b3974eb587f3929cc3226b93ad",
-          "sha1": "fb44a9c9ffd3adf2be2fc778e0ff89f49ec43f6a",
-          "md5": "f89e686a3e47dd4b1bb6987f93653e5a"
+          "size": 93398,
+          "sha512": "a2c2b4ead817c5511d0113e84c6ae8e49154684d36b9caf4bf890707efd74d71f326374e464feabd10fb9e70b93daa446efe024a13e705f0690921c93dd8818f",
+          "sha256": "268999c8edcb1532ce45c1201792822c878ea588bc71604c6aba52361ad1b05b",
+          "sha1": "f6448ae22c4a4d9d3288510b1e0434b864059a43",
+          "md5": "ab83773404868d5c0761616ff884644b"
         }
       ]
     }
