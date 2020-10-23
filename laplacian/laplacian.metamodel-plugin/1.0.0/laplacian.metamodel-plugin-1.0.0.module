@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "53pl63typbafzbchtzwehhsue4"
+      "buildId": "zhgtflgf2vc5nia7ce4nbd6pum"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 93398,
-          "sha512": "a2c2b4ead817c5511d0113e84c6ae8e49154684d36b9caf4bf890707efd74d71f326374e464feabd10fb9e70b93daa446efe024a13e705f0690921c93dd8818f",
-          "sha256": "268999c8edcb1532ce45c1201792822c878ea588bc71604c6aba52361ad1b05b",
-          "sha1": "f6448ae22c4a4d9d3288510b1e0434b864059a43",
-          "md5": "ab83773404868d5c0761616ff884644b"
+          "size": 93581,
+          "sha512": "8714e8def2198c6eaadeb845a1317bf8c016a054745d852546d73173e1b2ba338dd7c21309b0b05a7cd27ee508289c346156d90f681fd3c43f1d6a0b3d79bdd7",
+          "sha256": "3223a4d734e48f058342e68d3bb32ba17f52a406ce4f5171a0b64d7db6e52caf",
+          "sha1": "dc163d1ca9335ac9db054ef1199ed4e500dd6da6",
+          "md5": "dbe8f92a784caac85d56167487796dbe"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 93398,
-          "sha512": "a2c2b4ead817c5511d0113e84c6ae8e49154684d36b9caf4bf890707efd74d71f326374e464feabd10fb9e70b93daa446efe024a13e705f0690921c93dd8818f",
-          "sha256": "268999c8edcb1532ce45c1201792822c878ea588bc71604c6aba52361ad1b05b",
-          "sha1": "f6448ae22c4a4d9d3288510b1e0434b864059a43",
-          "md5": "ab83773404868d5c0761616ff884644b"
+          "size": 93581,
+          "sha512": "8714e8def2198c6eaadeb845a1317bf8c016a054745d852546d73173e1b2ba338dd7c21309b0b05a7cd27ee508289c346156d90f681fd3c43f1d6a0b3d79bdd7",
+          "sha256": "3223a4d734e48f058342e68d3bb32ba17f52a406ce4f5171a0b64d7db6e52caf",
+          "sha1": "dc163d1ca9335ac9db054ef1199ed4e500dd6da6",
+          "md5": "dbe8f92a784caac85d56167487796dbe"
         }
       ]
     }
