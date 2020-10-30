@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "mmmtqbgcavbgfkryo2lxh5r62m"
+      "buildId": "jjcxo7q3lzanpcpwg7v63bo57a"
     }
   },
   "variants": [
@@ -39,11 +39,11 @@
         {
           "name": "laplacian.generator-1.0.0.jar",
           "url": "laplacian.generator-1.0.0.jar",
-          "size": 233997,
-          "sha512": "1be13c5f4f7a0f76ee5eb4a00e043718bf140f0e315e11383aaab8be860c438d67016800e3a84e7b4f4c50737c10488e98cdb65a7315710abfeef9b5bd11a232",
-          "sha256": "6fa3b1d20c0cf793c8311528a7793764d079a8e1706738c33c95cb7509bfd007",
-          "sha1": "4c0438d925ed6edcdb4dd89ae401cd124228e41a",
-          "md5": "15bc29688348bcec80c4eb6c105c88b9"
+          "size": 233925,
+          "sha512": "c4491f5b46d5d548ba1dc85496fc543cb5f5cf728d23953aee49f642eec7ba5288f3dd355b78a57da86bd069bc302dcc00e25b912cd3a89abb21a95020393253",
+          "sha256": "0af94406529cc93775737a0de816d063d7b79c32f42c1670dfe62971eabbc1d5",
+          "sha1": "ad5439cc19c8b87632fbc5f8def8dcfcde6d302a",
+          "md5": "79ee382772787da1ab43db298d10d0e7"
         }
       ]
     },
@@ -127,11 +127,11 @@
         {
           "name": "laplacian.generator-1.0.0.jar",
           "url": "laplacian.generator-1.0.0.jar",
-          "size": 233997,
-          "sha512": "1be13c5f4f7a0f76ee5eb4a00e043718bf140f0e315e11383aaab8be860c438d67016800e3a84e7b4f4c50737c10488e98cdb65a7315710abfeef9b5bd11a232",
-          "sha256": "6fa3b1d20c0cf793c8311528a7793764d079a8e1706738c33c95cb7509bfd007",
-          "sha1": "4c0438d925ed6edcdb4dd89ae401cd124228e41a",
-          "md5": "15bc29688348bcec80c4eb6c105c88b9"
+          "size": 233925,
+          "sha512": "c4491f5b46d5d548ba1dc85496fc543cb5f5cf728d23953aee49f642eec7ba5288f3dd355b78a57da86bd069bc302dcc00e25b912cd3a89abb21a95020393253",
+          "sha256": "0af94406529cc93775737a0de816d063d7b79c32f42c1670dfe62971eabbc1d5",
+          "sha1": "ad5439cc19c8b87632fbc5f8def8dcfcde6d302a",
+          "md5": "79ee382772787da1ab43db298d10d0e7"
         }
       ]
     }
