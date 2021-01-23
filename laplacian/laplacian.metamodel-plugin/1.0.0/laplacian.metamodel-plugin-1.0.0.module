@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "zhgtflgf2vc5nia7ce4nbd6pum"
+      "buildId": "iutyda7hdncw3f7cngnusdlgxq"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 93581,
-          "sha512": "8714e8def2198c6eaadeb845a1317bf8c016a054745d852546d73173e1b2ba338dd7c21309b0b05a7cd27ee508289c346156d90f681fd3c43f1d6a0b3d79bdd7",
-          "sha256": "3223a4d734e48f058342e68d3bb32ba17f52a406ce4f5171a0b64d7db6e52caf",
-          "sha1": "dc163d1ca9335ac9db054ef1199ed4e500dd6da6",
-          "md5": "dbe8f92a784caac85d56167487796dbe"
+          "size": 140893,
+          "sha512": "dc8755c5f4c46a1d7e0b151338b84294c14e1a2e4a243696152945dbd1eb9981eaa2b98f477e694421e246bd143ab04f68d3052672f64824fafbf885a5cb8bd8",
+          "sha256": "1e254191fabeb11c0771e5cb51594e3ff028427eac73bcd4b83464c9c81ee5a4",
+          "sha1": "65e77c73b8f3076069a972a795f2f6a95fb735a6",
+          "md5": "2fd5fe7f043359c499e1a555d30ab4ea"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 93581,
-          "sha512": "8714e8def2198c6eaadeb845a1317bf8c016a054745d852546d73173e1b2ba338dd7c21309b0b05a7cd27ee508289c346156d90f681fd3c43f1d6a0b3d79bdd7",
-          "sha256": "3223a4d734e48f058342e68d3bb32ba17f52a406ce4f5171a0b64d7db6e52caf",
-          "sha1": "dc163d1ca9335ac9db054ef1199ed4e500dd6da6",
-          "md5": "dbe8f92a784caac85d56167487796dbe"
+          "size": 140893,
+          "sha512": "dc8755c5f4c46a1d7e0b151338b84294c14e1a2e4a243696152945dbd1eb9981eaa2b98f477e694421e246bd143ab04f68d3052672f64824fafbf885a5cb8bd8",
+          "sha256": "1e254191fabeb11c0771e5cb51594e3ff028427eac73bcd4b83464c9c81ee5a4",
+          "sha1": "65e77c73b8f3076069a972a795f2f6a95fb735a6",
+          "md5": "2fd5fe7f043359c499e1a555d30ab4ea"
         }
       ]
     }
