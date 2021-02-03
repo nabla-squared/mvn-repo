@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "iutyda7hdncw3f7cngnusdlgxq"
+      "buildId": "ft34cxxbmnegpj4gxbuaz6dptm"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 140893,
-          "sha512": "dc8755c5f4c46a1d7e0b151338b84294c14e1a2e4a243696152945dbd1eb9981eaa2b98f477e694421e246bd143ab04f68d3052672f64824fafbf885a5cb8bd8",
-          "sha256": "1e254191fabeb11c0771e5cb51594e3ff028427eac73bcd4b83464c9c81ee5a4",
-          "sha1": "65e77c73b8f3076069a972a795f2f6a95fb735a6",
-          "md5": "2fd5fe7f043359c499e1a555d30ab4ea"
+          "size": 140833,
+          "sha512": "6697109ea7e738aab8844c5408ed57ad95ddffe4f62ddc907fae9da7e1076017395d438866d789fb3d522efdd42a1bd122e3fa2aa5eb46079bee8285f3bd7d47",
+          "sha256": "eeb9c7ca7490be6f8a0a3fed49457ea93c2eec98620cffd5395524bef53a61db",
+          "sha1": "1387844ddee50813d7fb435537e849ac7fdec590",
+          "md5": "3047325bc8dfc0395faf8b94a595f05b"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 140893,
-          "sha512": "dc8755c5f4c46a1d7e0b151338b84294c14e1a2e4a243696152945dbd1eb9981eaa2b98f477e694421e246bd143ab04f68d3052672f64824fafbf885a5cb8bd8",
-          "sha256": "1e254191fabeb11c0771e5cb51594e3ff028427eac73bcd4b83464c9c81ee5a4",
-          "sha1": "65e77c73b8f3076069a972a795f2f6a95fb735a6",
-          "md5": "2fd5fe7f043359c499e1a555d30ab4ea"
+          "size": 140833,
+          "sha512": "6697109ea7e738aab8844c5408ed57ad95ddffe4f62ddc907fae9da7e1076017395d438866d789fb3d522efdd42a1bd122e3fa2aa5eb46079bee8285f3bd7d47",
+          "sha256": "eeb9c7ca7490be6f8a0a3fed49457ea93c2eec98620cffd5395524bef53a61db",
+          "sha1": "1387844ddee50813d7fb435537e849ac7fdec590",
+          "md5": "3047325bc8dfc0395faf8b94a595f05b"
         }
       ]
     }
