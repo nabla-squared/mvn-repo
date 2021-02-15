@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "ft34cxxbmnegpj4gxbuaz6dptm"
+      "buildId": "bj3rsjvcorggvi5cuocpoa5mfi"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 140833,
-          "sha512": "6697109ea7e738aab8844c5408ed57ad95ddffe4f62ddc907fae9da7e1076017395d438866d789fb3d522efdd42a1bd122e3fa2aa5eb46079bee8285f3bd7d47",
-          "sha256": "eeb9c7ca7490be6f8a0a3fed49457ea93c2eec98620cffd5395524bef53a61db",
-          "sha1": "1387844ddee50813d7fb435537e849ac7fdec590",
-          "md5": "3047325bc8dfc0395faf8b94a595f05b"
+          "size": 141792,
+          "sha512": "a8af234a165d88e4d487390d00dfab2fb4a44b7eb017d27c918f416012612fdbc97d47432d4267f17d62398da7ac15e84413cddec59b492eb1e7e1faf72c1387",
+          "sha256": "ecefddd893752f2bb83786db209a5cca270c25284dea98c71c098512b4f8626d",
+          "sha1": "9c6e9c4f5a77de044cda1184fe22ccd61c429e69",
+          "md5": "8f4c6ee90c5811285d7016df75af2bd5"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 140833,
-          "sha512": "6697109ea7e738aab8844c5408ed57ad95ddffe4f62ddc907fae9da7e1076017395d438866d789fb3d522efdd42a1bd122e3fa2aa5eb46079bee8285f3bd7d47",
-          "sha256": "eeb9c7ca7490be6f8a0a3fed49457ea93c2eec98620cffd5395524bef53a61db",
-          "sha1": "1387844ddee50813d7fb435537e849ac7fdec590",
-          "md5": "3047325bc8dfc0395faf8b94a595f05b"
+          "size": 141792,
+          "sha512": "a8af234a165d88e4d487390d00dfab2fb4a44b7eb017d27c918f416012612fdbc97d47432d4267f17d62398da7ac15e84413cddec59b492eb1e7e1faf72c1387",
+          "sha256": "ecefddd893752f2bb83786db209a5cca270c25284dea98c71c098512b4f8626d",
+          "sha1": "9c6e9c4f5a77de044cda1184fe22ccd61c429e69",
+          "md5": "8f4c6ee90c5811285d7016df75af2bd5"
         }
       ]
     }
