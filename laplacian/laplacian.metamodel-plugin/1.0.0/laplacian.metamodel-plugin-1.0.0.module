@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "bj3rsjvcorggvi5cuocpoa5mfi"
+      "buildId": "7n67nkydfvbh3hjzejsrzitpv4"
     }
   },
   "variants": [
@@ -30,11 +30,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 141792,
-          "sha512": "a8af234a165d88e4d487390d00dfab2fb4a44b7eb017d27c918f416012612fdbc97d47432d4267f17d62398da7ac15e84413cddec59b492eb1e7e1faf72c1387",
-          "sha256": "ecefddd893752f2bb83786db209a5cca270c25284dea98c71c098512b4f8626d",
-          "sha1": "9c6e9c4f5a77de044cda1184fe22ccd61c429e69",
-          "md5": "8f4c6ee90c5811285d7016df75af2bd5"
+          "size": 143011,
+          "sha512": "eb7098ff0f97e7bbf37f7387ab8eb4c69f9ad757ad0956b3f5eadad0e5fddee8b5ff7b79d7f64b4288ba0baa33fc0fc07be5f02b8b5a21efea2e8a83b1b4ff24",
+          "sha256": "bfaaabe1ec727b883fff2061be5087e02527329247c34922d34e343afff372f7",
+          "sha1": "1958e54994bc4ba6180cb303ffb59e72754b714c",
+          "md5": "0f399119332d0be7a04b7dc0a20dd040"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "laplacian.metamodel-plugin-1.0.0.jar",
           "url": "laplacian.metamodel-plugin-1.0.0.jar",
-          "size": 141792,
-          "sha512": "a8af234a165d88e4d487390d00dfab2fb4a44b7eb017d27c918f416012612fdbc97d47432d4267f17d62398da7ac15e84413cddec59b492eb1e7e1faf72c1387",
-          "sha256": "ecefddd893752f2bb83786db209a5cca270c25284dea98c71c098512b4f8626d",
-          "sha1": "9c6e9c4f5a77de044cda1184fe22ccd61c429e69",
-          "md5": "8f4c6ee90c5811285d7016df75af2bd5"
+          "size": 143011,
+          "sha512": "eb7098ff0f97e7bbf37f7387ab8eb4c69f9ad757ad0956b3f5eadad0e5fddee8b5ff7b79d7f64b4288ba0baa33fc0fc07be5f02b8b5a21efea2e8a83b1b4ff24",
+          "sha256": "bfaaabe1ec727b883fff2061be5087e02527329247c34922d34e343afff372f7",
+          "sha1": "1958e54994bc4ba6180cb303ffb59e72754b714c",
+          "md5": "0f399119332d0be7a04b7dc0a20dd040"
         }
       ]
     }
